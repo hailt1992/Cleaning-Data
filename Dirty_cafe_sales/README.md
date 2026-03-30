@@ -1,5 +1,3 @@
-Here’s a clean, professional GitHub README in Markdown for your Dirty Cafe Sales Dataset project:
-
 # ☕ Dirty Cafe Sales Dataset
 
 ## 📌 Overview
